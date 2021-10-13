@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devopsmadeeasy2021
-- 👀 I’m interested in ...
+- 👀 I’m interested in teaching technology!
 - 🌱 I’m currently learning IaC
 - 💞️ I’m looking to collaborate on making YouTube videos
 - 📫 How to reach me devopsmadeeasy@outlook.com
